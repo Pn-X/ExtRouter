@@ -1,0 +1,16 @@
+PODS:
+  - ExtRouter (0.0.1)
+
+DEPENDENCIES:
+  - ExtRouter (from `../`)
+
+EXTERNAL SOURCES:
+  ExtRouter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ExtRouter: 6c5a5c13313b67339e1eb95fe80eb71bfed3524b
+
+PODFILE CHECKSUM: a40cb0bffaf61a7c946b360115d9b52765d94a0e
+
+COCOAPODS: 1.5.3
